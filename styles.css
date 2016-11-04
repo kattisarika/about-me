@@ -7,3 +7,18 @@ div {
 h1 {
     background-color: cornflowerblue;
 }
+
+.skillsparagraph {
+    background-color: dimgray;
+    max-width: 400px;
+    margin-bottom: 15px;
+}
+
+.unordered-list {
+    padding-left: 15px;
+}
+
+.list-item:before {
+    content: "*";
+    margin-right: 5px;
+}
